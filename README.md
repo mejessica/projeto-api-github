@@ -16,3 +16,5 @@ gerente de projeto, a serem acrescentadas no projeto. Devendo assim. ser impleme
 Apesar da inicial dificuldade para implementar a API no projeto com as funcionalidades pedidas, aprendi mais sobre o JavaScript e a ler documentação de API, bem como a refatorar o código.  
 
 ### [*Deploy do projeto*](https://projeto-api-github-mejessica.vercel.app/)
+
+![GitHub API - buscando usuários com fetch](https://github.com/mejessica/projeto-api-github/assets/82670472/80e908b4-4bd2-449e-b913-6a4a596f71a0)
